@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Travis Ci Demo
+          Travis Ci Demo xxx
         </p>
         <button 
            className="center-block" 
